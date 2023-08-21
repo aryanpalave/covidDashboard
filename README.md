@@ -1,1 +1,1 @@
-# covidDashboard
+# Covid Dashboard
